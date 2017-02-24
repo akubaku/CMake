@@ -1,4 +1,4 @@
-CMakeks
+CMake
 *****
 
 Introduction
